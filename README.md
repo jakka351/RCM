@@ -5,7 +5,7 @@ Part No:
 Software: 
 </sup>
 
-Documenting discover of diagnostic services and firmware of a Ford FG Restraints Control Module, including search for event data recorder and crash data recovery processes.
+Documenting discovery of diagnostic services and firmware diassembly of a Ford FG Restraints Control Module, including search for event data recorder and crash data recovery processes.
 
 
 
@@ -19,4 +19,6 @@ Documenting discover of diagnostic services and firmware of a Ford FG Restraints
 
 Security Access is unlocked with service 0x27 and FEPS. 
 
+***
+## Owners Manual
 ![image](https://raw.githubusercontent.com/jakka351/RCM/main/Data/Screenshot_20230727-121937.png)
