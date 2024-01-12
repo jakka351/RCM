@@ -6,10 +6,10 @@ Manufactured: 19/03/2009
 </b></sup>
 
 
-![image](https://github.com/jakka351/RestraintsControlModule/assets/57064943/1d827b03-9315-4bc7-9a2a-b62f2df04c48)
+<img src="https://github.com/jakka351/RestraintsControlModule/assets/57064943/1d827b03-9315-4bc7-9a2a-b62f2df04c48" height="50%" width="50%" align="right" />
+
 ***
 Documenting discovery of diagnostic services and firmware diassembly of a Ford FG Restraints Control Module, including search for event data recorder and crash data recovery processes.
-
 
 [`FG Falcon Repo`](https://github.com/jakka351/fg-falcon). 
 [`PCM Hacking forum thread`](https://pcmhacking.net/forums/viewtopic.php?f=41&t=8425)
