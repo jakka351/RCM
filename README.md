@@ -16,6 +16,11 @@ Documenting discovery of diagnostic services and firmware diassembly of a Ford F
 [`PCM Hacking forum thread`](https://pcmhacking.net/forums/viewtopic.php?f=41&t=8425)
 
 ***
+## Connectors
+![image](https://github.com/jakka351/RestraintsControlModule/assets/57064943/37238430-fbb0-481e-849d-f7929ccc0c29)
+
+
+***
 ## Read Flash Process
 
 `Seed Key: DIODE`
