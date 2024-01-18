@@ -19,13 +19,21 @@ Documenting discovery of diagnostic services and firmware diassembly of a Ford F
 ## Connectors
 ![image](https://github.com/jakka351/RestraintsControlModule/assets/57064943/37238430-fbb0-481e-849d-f7929ccc0c29)
 
+## Wiring Diagram
+![image](https://github.com/jakka351/RestraintsControlModule/assets/57064943/98b192b1-1486-4358-95f1-fae10abbe59a)
 
-***
-## Read Flash Process
+## Diagnostics
+### Security Access
 
 `Seed Key: DIODE`
 
 Security Access is unlocked with service 0x27 and FEPS. 
+
+### Service 0x21
+### Service 0x22
+### Service 0x23
+### Read Flash
+### Write Flash
 
 ***
 ## Owners Manual
