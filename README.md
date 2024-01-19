@@ -31,6 +31,23 @@ Security Access is unlocked with service 0x27 and FEPS.
 
 ### Service 0x21
 As Built Data - 6 Blocks of data including an empty spot for VIN.
+```
+;Block 1
+737G1G14080
+;Block 2 
+737G2G1000000000041
+737G2G2000000000042
+737G2G3000000000043
+737G2G4000044
+;Block 3
+737G3G1000042
+;Block 4
+737G4G179F0AC
+;Block 5
+737G5G1C70B
+;Block 6
+737G6G198FDDA
+```
 ### Service 0x22
 Memory locations `0x5800` to `0x5B58`:
 ```
