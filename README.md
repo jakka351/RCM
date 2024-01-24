@@ -1,6 +1,6 @@
 # Restraints Control Module
 
-<a href="https://testerpresent.com.au/"><img src="https://img.shields.io/badge/Tester Present -Specialist Automotive Solutions-red" /></a>  
+<a href="https://testerpresent.com.au/"><img src="https://img.shields.io/badge/Tester Present -Specialist Automotive Solutions-blue" /></a>  
 <sup><b>
 Part No: 8R29-14B321-BC  
 Manufactured: 19/03/2009
